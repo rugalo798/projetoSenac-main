@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300131431999",
+    "project_id": "projetointegrador-52c60",
+    "storage_bucket": "projetointegrador-52c60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300131431999:android:f76984d4065180c8ce2a8a",
+        "android_client_info": {
+          "package_name": "com.senac.projetoSenac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300131431999-ursa91ftm3658c02844m2sd1ndv76rh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYlovjrKm8egNLbWUPgEqdu8TOte0XdpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300131431999-ursa91ftm3658c02844m2sd1ndv76rh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
